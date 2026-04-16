@@ -28,8 +28,7 @@ Com uma interface simples e intuitiva, o app permite realizar cálculos de forma
 
 Você pode baixar a versão mais recente do aplicativo através do link abaixo:
 
-👉 **[Baixar APK](#)**
-https://github.com/caneto/Contas-Trabalhistas-APP/releases/tag/App
+👉 **[Baixar APK]([#](https://github.com/caneto/Contas-Trabalhistas-APP/releases/tag/App))**
 
 ---
 
@@ -84,8 +83,8 @@ Consulte os termos ao adquirir o código fonte.
 
 Caso tenha interesse ou dúvidas:
 
-* 📧 Email: [seuemail@email.com](mailto:seuemail@email.com)
-* 📱 WhatsApp: (xx) xxxxx-xxxx
+* 📧 Email: [caneto@email.com](mailto:caneto@email.com)
+* 📱 WhatsApp: (21) 9904-48138
 
 ---
 
