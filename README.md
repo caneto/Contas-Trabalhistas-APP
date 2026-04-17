@@ -37,7 +37,7 @@ Você pode baixar a versão mais recente do aplicativo através do link abaixo:
 
 Deseja adquirir o código completo do projeto para estudo, personalização ou uso comercial?
 
-👉 **[Comprar Código Fonte Completo](#)**
+👉 **[Comprar Código Fonte Completo]**
 * EM BREVE *
 
 ---
