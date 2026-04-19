@@ -70,7 +70,7 @@ O objetivo do app é **simplificar cálculos trabalhistas**, tornando-os acessí
 ## 📷 Screenshots
 
 
-<img src=""https://github.com/caneto/Contas-Trabalhistas-APP/blob/main/images/Screenshot_1776637419.png"" width=""200"" />","<img src=""https://github.com/caneto/Contas-Trabalhistas-APP/blob/main/images/Screenshot_1776637519.png"" width=""200"" />","<img src=""https://github.com/caneto/Contas-Trabalhistas-APP/blob/main/images/Screenshot_1776637525.png"" width=""200"" />","<img src=""https://github.com/caneto/Contas-Trabalhistas-APP/blob/main/images/Screenshot_1776637530.png"" width=""200"" />
+<img src="https://github.com/caneto/Contas-Trabalhistas-APP/blob/main/images/Screenshot_1776637419.png" width="200" />","<img src="https://github.com/caneto/Contas-Trabalhistas-APP/blob/main/images/Screenshot_1776637519.png" width="200" />","<img src="https://github.com/caneto/Contas-Trabalhistas-APP/blob/main/images/Screenshot_1776637525.png" width="200" />","<img src="https://github.com/caneto/Contas-Trabalhistas-APP/blob/main/images/Screenshot_1776637530.png" width="200" />
 
 ---
 
