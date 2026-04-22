@@ -38,7 +38,9 @@ Você pode baixar a versão mais recente do aplicativo através do link abaixo:
 Deseja adquirir o código completo do projeto para estudo, personalização ou uso comercial?
 
 👉 **[Comprar Código Fonte Completo]**
-* EM BREVE *
+Fontes completos por apeans 11$ (+- 54R$)
+
+<a href="https://www.patreon.com/posts/fontes-em-contas-156270939?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link">Fontes a Venda</>
 
 ---
 
